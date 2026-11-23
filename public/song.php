@@ -41,7 +41,7 @@ if ($song['is_cover'] == 1) {
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blue Rose Archive</title>
+    <title>Spider Lily Archive</title>
     <link rel="stylesheet" href="/assets/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -51,7 +51,7 @@ if ($song['is_cover'] == 1) {
   <body>
     <header>
       <div class="header-left">
-        <a href="/index.php" class="links">Blue Rose Archive</a>
+        <a href="/index.php" class="links">Spider Lily Archive</a>
       </div>
       
       <div class="header-center">

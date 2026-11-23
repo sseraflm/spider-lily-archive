@@ -3,6 +3,7 @@
 
 require __DIR__ . "/../../src/db.php";
 
+header("Content-Type: application/json; charset=utf-8");
 
 $query = trim($_GET["q"] ?? "");
 

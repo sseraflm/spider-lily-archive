@@ -1,6 +1,6 @@
 -- MariaDB dump 10.20-13.0.2-MariaDB, for Linux (x86_64)
 --
--- Host: localhost    Database: blue_rose
+-- Host: localhost    Database: spider_lily
 -- ------------------------------------------------------
 -- Server version	13.0.2-MariaDB
 
